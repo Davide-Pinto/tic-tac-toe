@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * Implementação de um agente O usando o algoritmo Minimax com cortes alfa-beta para um jogo de tabuleiro.
  *
- * @author Davide Pinto, Nuno Carvalho, Robim Rodrigues
+ * @author Davide Pinto
  *
  */
 public class Agent {
